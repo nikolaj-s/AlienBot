@@ -1,6 +1,6 @@
-#Rule Based Chat Bot, The Alien Bot
+# Rule Based Chat Bot, The Alien Bot
 
-*To run open your preferred terminal or just double click the python file
+* To run open your preferred terminal or just double click the python file
 
-*Next follow the prompts and have a chat
+* Next follow the prompts and have a chat
 
